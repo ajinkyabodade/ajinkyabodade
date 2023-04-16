@@ -14,7 +14,7 @@
 
 <br>
 
-![Ajinkya's Stackoverflow stats](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=9066997&theme=dark) ![Ajinkya's Github stats](https://github-readme-stats.vercel.app/api?username=ajinkyabodade&show_icons=true)
+![Ajinkya's Stackoverflow stats](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=9066997&theme=dark) ![Ajinkya's Github stats](https://github-readme-stats.vercel.app/api?username=ajinkyabodade&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 <br>
 
