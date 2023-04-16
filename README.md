@@ -15,9 +15,6 @@
 <br>
 
 
-<img align="right" width="300px" height="195px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-
 ![Ajinkya's github stats](https://github-readme-stats.vercel.app/api?username=ajinkyabodade&show_icons=true)
 
 [![Ajinkya StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9066997&theme=dark)](https://stackoverflow.com/users/9066997/ajinkya-bodade)
@@ -26,6 +23,7 @@
 <br>
 
 ### Languages and Tools: 
+<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
