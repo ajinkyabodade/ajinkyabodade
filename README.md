@@ -11,13 +11,11 @@
 <a href="https://www.linkedin.com/in/ajinkya-bodade/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:bodadeajinkya@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
-
-
 <br>
 
 <p align="center">
- <img align="center" alt="Visual Studio Code" width="80%" src="https://github-readme-stats.vercel.app/api?username=ajinkyabodade&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
- <img align="center" alt="Visual Studio Code" width="80%" src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=9066997&theme=dark" />
+ <img align="center" alt="Visual Studio Code" width="60%" src="https://github-readme-stats.vercel.app/api?username=ajinkyabodade&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+ <img align="center" alt="Visual Studio Code" width="60%" src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=9066997&theme=dark" />
 </p>
 <br>
 
