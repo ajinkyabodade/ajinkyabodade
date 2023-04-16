@@ -10,13 +10,14 @@
 <a href="https://www.instagram.com/ajinkya_bodade/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/ajinkya-bodade/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:bodadeajinkya@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-</p>
+
 
 <br>
 
 ![Ajinkya's Stackoverflow stats](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=9066997&theme=dark) ![Ajinkya's Github stats](https://github-readme-stats.vercel.app/api?username=ajinkyabodade&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 <br>
+</p>
 
 ### Languages and Tools: 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
