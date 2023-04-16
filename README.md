@@ -14,9 +14,7 @@
 
 <br>
 
-<p float="left">
- [![Ajinkya StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9066997&theme=dark)](https://stackoverflow.com/users/9066997/ajinkya-bodade)
-</p>
+[![Ajinkya StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9066997&theme=dark)](https://stackoverflow.com/users/9066997/ajinkya-bodade)
 
 ![Ajinkya's github stats](https://github-readme-stats.vercel.app/api?username=ajinkyabodade&show_icons=true)
 
