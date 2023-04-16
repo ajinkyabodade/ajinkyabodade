@@ -18,7 +18,7 @@
 <img align="right" width="300px" height="195px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 
-![Ajinkya's github stats](https://github-readme-stats.vercel.app/api?username=ajinkyabodadeAD&show_icons=true)
+![Ajinkya's github stats](https://github-readme-stats.vercel.app/api?username=ajinkyabodade&show_icons=true)
 
 <br>
 
