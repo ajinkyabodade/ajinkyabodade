@@ -14,9 +14,7 @@
 
 <br>
 
-[![Ajinkya StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9066997&theme=dark)](https://stackoverflow.com/users/9066997/ajinkya-bodade)
-
-![Ajinkya's github stats](https://github-readme-stats.vercel.app/api?username=ajinkyabodade&show_icons=true)
+![Ajinkya's Stackoverflow stats](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=9066997&theme=dark) ![Ajinkya's Github stats](https://github-readme-stats.vercel.app/api?username=ajinkyabodade&show_icons=true)
 
 <br>
 
