@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
- <img align="center" alt="Visual Studio Code" width="60%" src="https://github-readme-stats.vercel.app/api?username=ajinkyabodade&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />(https://stackoverflow.com/users/9066997/ajinkya-bodade)
+ [<img align="center" alt="Visual Studio Code" width="60%" src="https://github-readme-stats.vercel.app/api?username=ajinkyabodade&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />](https://stackoverflow.com/users/9066997/ajinkya-bodade)
  <img align="center" alt="Visual Studio Code" width="60%" src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=9066997&theme=dark" />
 </p>
 <br>
